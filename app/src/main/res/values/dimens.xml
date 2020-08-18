@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_size_items_login">40dp</dimen>
+    <dimen name="pading_text_login">15dp</dimen>
+    <dimen name="height_size_items_stament">40dp</dimen>
+</resources>
